@@ -6,17 +6,26 @@
 
 
 <p style="display: inline_block" align="center"><br> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+   <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="javascript logo"  />
+   <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="typescript logo"  />
+   <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="nodejs logo"  />
+   <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="express logo"  />
+   <img src="https://skillicons.dev/icons?i=nestjs" width="60" height="60" alt="nestjs logo"  />
+   <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="mongodb logo"  />
+   <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="mysql logo"  />
+   <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="postgresql logo"  />
+   <img src="https://skillicons.dev/icons?i=jest" width="60" height="60" alt="jest logo"  />
+   <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="docker logo"  />
+ 
+   <!--
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> -->
+   
 </p>
   
 </p>

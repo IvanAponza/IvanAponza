@@ -2,7 +2,7 @@
    <h3 align="center">¡Hola 👋! Soy Ivan Aponza 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Backend JavaScript </strong>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor <br />¡Aquí puedes ver un poco de mi contenido 👇!</p>
+<p align="center">Soy <strong>Desarrollador Backend JavaScript </strong>Especializado en la creación de sistemas escalables, eficientes y orientados a resultados. Experiencia sólida trabajando con Express.js y NestJS, construyendo APIs robustas y arquitecturas limpias alineadas con las mejores prácticas de la industria. Me enorgullece escribir código limpio, mantenible, seguro y listo para crecer junto con las necesidades del cliente. Disfruto resolver problemas complejos, optimizar el rendimiento de las aplicaciones y diseñar soluciones que generen valor real. Siempre estoy buscando mejorar mis habilidades y conocimientos para convertirme en un mejor desarrollador web<br />¡Aquí puedes ver un poco de mi contenido 👇!</p>
 
 
 <p style="display: inline_block" align="center"><br> 
